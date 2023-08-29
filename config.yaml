@@ -1,0 +1,18 @@
+yandex_API: 
+  login : "TestUi001"
+  password : "Goldstar79"
+
+test_create_file:
+  name_directory : directory_002
+  name_file : test_file
+
+test_donwload_file:
+  name_directory : directory_001
+  file_name : "\\test.txt"
+
+settings_web_browser: 
+  path_to_driver : "chrome_driver\\chromedriver.exe"
+  page_load_strategy : "normal"
+  user_agent : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+
+

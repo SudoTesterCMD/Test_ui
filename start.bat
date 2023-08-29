@@ -1,0 +1,1 @@
+F:\simbir_soft\Scripts\pytest.exe Test
